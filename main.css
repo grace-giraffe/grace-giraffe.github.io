@@ -5,7 +5,9 @@ h1 {
 }
 
 p {
-    font-size: 5px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
 }
 
 body {
